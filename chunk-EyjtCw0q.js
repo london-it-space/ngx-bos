@@ -1,0 +1,1 @@
+var t=[{path:"",loadComponent:()=>import('./chunk-B42Vffg-.js').then(o=>o.ProfileComponent)}];export{t as routes};
